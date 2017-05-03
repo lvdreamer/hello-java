@@ -1,5 +1,5 @@
 # hello-java
 This is my first project
-first submit
-thrid submit
+first suabmit
+thrid subimit
 second submit
